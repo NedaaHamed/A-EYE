@@ -1,0 +1,37 @@
+.button {
+  all: unset;
+  background-image: url(https://c.animaapp.com/hmXbglH2/img/background-4@2x.png);
+  background-size: 100% 100%;
+  box-sizing: border-box;
+  height: 94px;
+  left: 20px;
+  position: relative;
+  top: 20px;
+  width: 260px;
+}
+
+.button .text-wrapper {
+  color: #f8f9fd;
+  font-family: "League Spartan", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 34px;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 32.4px;
+  position: absolute;
+  text-align: center;
+  top: 29px;
+  white-space: nowrap;
+  width: 212px;
+}
+
+.button:hover {
+  background-image: url(https://c.animaapp.com/hmXbglH2/img/background-1@2x.png);
+  top: 134px;
+}
+
+.button:hover .text-wrapper {
+  font-weight: 800;
+  text-decoration: underline;
+}

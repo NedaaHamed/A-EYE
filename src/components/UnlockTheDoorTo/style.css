@@ -1,0 +1,14 @@
+.UNLOCK-THE-DOOR-TO {
+  height: 328px;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.UNLOCK-THE-DOOR-TO.default {
+  width: 1067px;
+}
+
+.UNLOCK-THE-DOOR-TO.variant-2 {
+  width: 1029px;
+}
